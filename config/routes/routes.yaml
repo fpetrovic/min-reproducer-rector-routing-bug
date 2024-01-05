@@ -1,0 +1,3 @@
+my_route:
+  path: /test-route
+  controller: App\Controller\TestController
